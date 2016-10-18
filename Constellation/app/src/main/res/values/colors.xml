@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/theme</color>
+    <color name="colorPrimaryDark">@color/transparent</color>
+    <color name="colorAccent">@color/theme</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="theme">#d0b1b1</color>
+    <color name="page_bg">#fefefe</color>
+
+    <color name="aries">#dfd0ae</color>
+    <color name="taurus">#a19abf</color>
+    <color name="gemini">#d0b1b1</color>
+    <color name="cancer">#c4dfad</color>
+    <color name="leo">#bf99b7</color>
+    <color name="virgo">#cfb2b1</color>
+    <color name="libra">#aedade</color>
+    <color name="scorpio">#98a5be</color>
+    <color name="sagittarius">#b1d2b4</color>
+    <color name="capricorn">#adcbde</color>
+    <color name="aquarius">#beb199</color>
+    <color name="pisces">#d0b2cd</color>
+</resources>

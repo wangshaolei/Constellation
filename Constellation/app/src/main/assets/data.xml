@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<constellation>
+	<star>
+		<id>0</id>
+		<name>白羊Aries</name>
+		<date>3月21日-4月20日</date>
+		<luckynum>9、18、27、36</luckynum>
+		<shortcoming>喜怒无常、草率行事、不计</shortcoming>
+		<merit>精力充沛、行动为先、极富</merit>
+		<performance>火力四身、自我、冲动</performance>
+		<character>白羊座的男生女生性格热情、做事冲动、为人慷慨。有着做事坚持到底的持久恒心。脾气不好、确不会记着仇恨。白羊座的男人基本都大男人主义。而白羊座的女人则有女强人的倾向。</character>
+	</star>
+	<star>
+		<id>1</id>
+		<name>金牛Taurus</name>
+		<date>4月21日-5月21日</date>
+		<luckynum>6、15、24、33</luckynum>
+		<shortcoming>顽固、太过实际、依赖心</shortcoming>
+		<merit>沉稳踏实、重视特质、观察</merit>
+		<performance>稳定、务实、享受</performance>
+		<character>金牛座是很保守的星座、喜欢稳定、不爱行动。在性格上则比较慢热、对工作、生活、环境都需要比较长的适应期。金牛座往往是财富的象征、在投资理财方面常常有很独到的见解。金牛座的男人往往有大男人的倾向、而金牛座的女生则喜欢打扮自己、谁让金牛的守护神是维纳斯呢？</character>
+	</star>
+	<star>
+		<id>2</id>
+		<name>双子Gemini</name>
+		<date>5月22日-6月21日</date>
+		<luckynum>5,14,23,32</luckynum>
+		<shortcoming>善变、多变、难以专精</shortcoming>
+		<merit>沟通力强、思维活跃</merit>
+		<performance>灵活、沟通、口才</performance>
+		<character>双子座的人往往喜好新鲜事物、他们有着小聪明、但做事常常不太专一。与双子座的人聊天也许会让你觉得很兴奋、因为他们脑子中那些新鲜的、稀奇古怪的东西会让有充满好奇。也许是对新鲜事物的追求和好奇、会让人觉得他们很花心、其实不然、他们仅仅是喜欢新鲜而已。</character>
+	</star>
+	<star>
+		<id>3</id>
+		<name>巨蟹Cancer</name>
+		<date>6月22日-7月22日</date>
+		<luckynum>2、11、20、29</luckynum>
+		<shortcoming>多愁善感、沉溺往事、逃避</shortcoming>
+		<merit>情感丰富、亲切温暖、善解</merit>
+		<performance>顾家、念旧、关怀</performance>
+		<character>巨蟹座的人往往充满了爱心、他们将母性的本质发挥到了极限。对他们来说、最重要的东西是家庭。他们往往就像蟹一样、在充满坚硬的外壳下面是柔软的内心。巨蟹座是最执着的星座、他们对朋友、对家人的忠实、做事会一直坚持到底。</character>
+	</star>
+	<star>
+		<id>4</id>
+		<name>狮子Leo</name>
+		<date>7月23日-8月22日</date>
+		<luckynum>1、10、19、28</luckynum>
+		<shortcoming>自傲、独断、暴躁、欲望强</shortcoming>
+		<merit>领导力强、很有主见、行动</merit>
+		<performance>王者、自信、大方</performance>
+		<character>狮子座的人热情、阳光、大方是他们性格上最大的特色。与他们性格上的优点不同、他们爱面子、自信得有点儿自大、常常会很在乎别人对自己的看法、也常常会因此而使自己不快乐。</character>
+	</star>
+	<star>
+		<id>5</id>
+		<name>处女Virgo</name>
+		<date>8月23日-9月22日</date>
+		<luckynum>5、14、23、32</luckynum>
+		<shortcoming>吹毛求疵、洁癖、保守、严</shortcoming>
+		<merit>心思缜密、善于分析研究</merit>
+		<performance>细心、挑剔、分析</performance>
+		<character>处女座追求完美、吹毛求疵是他们的特性。多数的处女座很谦虚、但也因此给自己造成很大压力。处女座的人不喜欢闲着、对别人常常乐于服务。缺乏自信的处女座有时候组织能力较差、需要家人与朋友们的鼓励去推动他们。</character>
+	</star>
+	<star>
+		<id>6</id>
+		<name>天秤Libra</name>
+		<date>9月23日-10月23日</date>
+		<luckynum>6、15、24、33</luckynum>
+		<shortcoming>犹豫不决、怕寂寞、以貌取人</shortcoming>
+		<merit>优雅、友善、善于交际</merit>
+		<performance>平衡、和谐</performance>
+		<character>天秤座常常追求和平和谐的感觉、他们善于交谈、沟通能力极强是他们最大的优点。但他们最大的缺点、往往是犹豫不决。天秤座的人容易将自己的想法加诸到别人身上、天秤座的人要小心这点。天秤座女生常常希望他们的伴侣会时刻陪伴着她。</character>
+	</star>
+	<star>
+		<id>7</id>
+		<name>天蝎Scorpio</name>
+		<date>10月24日-11月22日</date>
+		<luckynum>9、18、27、36</luckynum>
+		<shortcoming>孤僻自怜、占有欲强、有时</shortcoming>
+		<merit>明察秋毫、高瞻远瞩、有毅</merit>
+		<performance>神秘、冷静、直觉</performance>
+		<character>天蝎座的人精力旺盛、热情、善妒、占有欲极强。他们想要每天过得非常充实、如果失去了目标、他们很难认真地投入精力。天蝎是记仇的、会不顾一切地打击仇人。他们的一个成功优点、就是他们一旦定了目标、就会不达目的誓不罢休。</character>
+	</star>
+	<star>
+		<id>8</id>
+		<name>射手Sagittarius</name>
+		<date>11月23日-12月21日</date>
+		<luckynum>3、12、21、30</luckynum>
+		<shortcoming>粗心大意、太爱冒险、浮</shortcoming>
+		<merit>风趣幽默、崇尚自由、讲义</merit>
+		<performance>乐观开朗、自由率真</performance>
+		<character>射手座的人就像那只在弦上的箭一样、他们主动出击。为人乐观、诚实、热情、喜欢挑战。射手是十二星座中冒险家、热爱旅行、喜欢赌博。意志力薄弱是射手座天生的弱点、如果沉迷赌博与游戏、后果不堪设想。</character>
+	</star>
+	<star>
+		<id>9</id>
+		<name>摩羯Capricorn</name>
+		<date>12月22日-01月20日</date>
+		<luckynum>8、16、26、35</luckynum>
+		<shortcoming>刻板、保守、孤独、消极</shortcoming>
+		<merit>深思熟虑、冷静判断、责任</merit>
+		<performance>企图心、沉稳</performance>
+		<character>摩羯座是十二星座中最有耐心、为事最小心、也是最善良的星座。他们做事脚踏实地、也比较固执、不达目的是不会放手的。他们是忍耐力也是出奇的强大、同时也非常勤奋。他们心中总是背负着很多的责任感、但往往又很没有安全感、不会完全地相信别人。</character>
+	</star>
+	<star>
+		<id>10</id>
+		<name>水瓶Aquarius</name>
+		<date>01月21日-02月19日</date>
+		<luckynum>4、13、22、31</luckynum>
+		<shortcoming>多变、叛逆、倔强、自我中</shortcoming>
+		<merit>求新求变、好奇心强、博</merit>
+		<performance>创新、时常</performance>
+		<character>水瓶座的人很聪明、他们最大的特点是创新、追求独一无二的生活、个人主义色彩很浓重的星座、他们对人友善又注重隐私。水瓶座绝对算得上是友谊之星、他们喜欢结交每一类的朋友、但是确很难与他们交心、那需要很长时间。他们对自己家人就显得冷淡和疏远很多了。</character>
+	</star>
+	<star>
+		<id>11</id>
+		<name>双鱼Pisces</name>
+		<date>02月20日-03月20日</date>
+		<luckynum>7、16、25、34</luckynum>
+		<shortcoming>多愁善感、爱幻想、敏感</shortcoming>
+		<merit>温柔体贴、感情丰富、气质</merit>
+		<performance>感性、多情、艺术</performance>
+		<character>双鱼座是十二宫最后一个星座、他集合了所有星座的优缺点于一身、同时受水象星座的情绪化影响、使他们原来复杂的性格又添加了更复杂的一笔。双鱼座的人最大的优点是有一颗善良的心、他们愿意帮助别人、甚至是牺牲自己。</character>
+	</star>
+</constellation>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
