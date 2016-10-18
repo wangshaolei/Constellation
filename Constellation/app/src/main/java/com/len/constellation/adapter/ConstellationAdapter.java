@@ -113,7 +113,7 @@ public class ConstellationAdapter extends BaseAdapter {
                 viewHolder.tvCharacter.setTextColor(context.getResources().getColor(R.color.sagittarius));
                 break;
             case 9:
-                viewHolder.ivIcon.setImageResource(R.drawable.cancer01);
+                viewHolder.ivIcon.setImageResource(R.drawable.capricorn01);
                 viewHolder.tvName.setTextColor(context.getResources().getColor(R.color.capricorn));
                 viewHolder.tvDate.setTextColor(context.getResources().getColor(R.color.capricorn));
                 viewHolder.tvCharacter.setTextColor(context.getResources().getColor(R.color.capricorn));
