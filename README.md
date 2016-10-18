@@ -5,6 +5,10 @@ Google material design style constellation
 
 ![](https://github.com/wangshaolei/Constellation/blob/master/img/splash_logo.png)
 
+#Effect
+
+![](https://github.com/wangshaolei/Constellation/blob/master/img/constellation.gif)
+
 ## Google material style
 
 This is a One Page little app, and with CoordinatorLayout, AppBarLayout, CollapsingToolbarLayout,Toolbar.
