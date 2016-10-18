@@ -3,7 +3,7 @@ Google material design style constellation
 
 # Logo
 
-![](https://github.com/wangshaolei/Constellation/tree/master/img/splash_logo.png)
+![](https://github.com/wangshaolei/Constellation/blob/master/img/splash_logo.png)
 
 ## Google material style
 
