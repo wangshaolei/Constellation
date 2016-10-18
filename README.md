@@ -9,6 +9,8 @@ Google material design style constellation
 
 This is a One Page little app, with CoordinatorLayout, AppBarLayout, CollapsingToolbarLayout,Toolbar.
 
+And the best effect with Lollipop5.0.
+
 ### About Copyright
 
 [Contact me](https://github.com/wangshaolei)
