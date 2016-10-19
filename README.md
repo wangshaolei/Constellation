@@ -10,7 +10,9 @@ This is a One Page little app, with CoordinatorLayout, AppBarLayout, CollapsingT
 And the best effect with Lollipop5.0.
 
 ### About Copyright
+
 Copyright 2016 Len
+
 [Contact me](https://github.com/wangshaolei)
 
 #Thanks:
