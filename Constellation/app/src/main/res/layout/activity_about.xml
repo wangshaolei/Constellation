@@ -5,47 +5,41 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:fitsSystemWindows="true"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
     tools:context="com.len.constellation.AboutActivity">
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        app:popupTheme="@style/AppTheme.PopupOverlay"
-        app:title="关于"
-        app:navigationIcon="?attr/homeAsUpIndicator"
-        app:theme="@style/ToolBarStyle"
         android:background="?attr/colorPrimary"
+        app:navigationIcon="?attr/homeAsUpIndicator"
+        app:popupTheme="@style/AppTheme.PopupOverlay"
+        app:theme="@style/ToolBarStyle"
+        app:title="关于"
         />
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="vertical"
-            android:gravity="center"
-            >
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/photo"
+        android:layout_marginTop="90dp"
+        />
 
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/photo"
-                />
+    <com.len.constellation.widget.AutoLinkStyleTextView
+        android:id="@+id/tv_link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="https://github.com/wangshaolei"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:AutoLinkStyleTextView_default_color="@color/black"
+        app:AutoLinkStyleTextView_has_under_line="true"
+        app:AutoLinkStyleTextView_text_value="https://github.com/wangshaolei,"
+        />
 
-            <com.len.constellation.widget.AutoLinkStyleTextView
-                android:id="@+id/tv_link"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="https://github.com/wangshaolei"
-                android:textColor="@color/black"
-                android:layout_marginTop="10dp"
-                android:textSize="16sp"
-                app:AutoLinkStyleTextView_text_value="https://github.com/wangshaolei,"
-                app:AutoLinkStyleTextView_default_color="@color/black"
-                app:AutoLinkStyleTextView_has_under_line="true"
-                />
-
-        </LinearLayout>
 
 </LinearLayout>
